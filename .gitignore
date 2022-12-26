@@ -6,5 +6,9 @@
 /*.jpg
 /README.md
 /build
+/.gradle
+/gradle
+/gradlew.bat
+/gradlew
 
 
